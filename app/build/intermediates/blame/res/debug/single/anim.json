@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in_center.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\anim\\fade_in_center.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out_center.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\anim\\fade_out_center.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/default_background"
+    android:orientation="vertical"
+    android:paddingLeft="48dp"
+    android:paddingRight="48dp">
+
+    <ImageView
+        android:id="@+id/iv_main_logo"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginTop="72dp"
+        android:src="@mipmap/login_logo" />
+
+    <EditText
+        android:id="@+id/et_main_account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="48dp"
+        android:background="@color/white"
+        android:drawableLeft="@mipmap/ic_img_denglu"
+        android:drawablePadding="12dp"
+        android:hint="请输入用户名"
+        android:paddingBottom="8dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="16dp"
+        android:paddingTop="8dp"
+        android:singleLine="true" />
+
+    <EditText
+        android:id="@+id/et_main_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="48dp"
+        android:background="@color/white"
+        android:drawableLeft="@mipmap/ic_img_denglu"
+        android:drawablePadding="12dp"
+        android:hint="请输入密码"
+        android:inputType="textPassword"
+        android:paddingBottom="8dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="16dp"
+        android:paddingTop="8dp"
+        android:singleLine="true" />
+
+    <TextView
+        android:id="@+id/tv_forget_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="16dp"
+        android:text="忘记用户名和密码?"/>
+
+    <Button
+        android:id="@+id/btn_main_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/default_button_background"
+        android:text="登录"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="24dp"
+        android:text="服务热线:0576-88275333"
+        android:textSize="16sp" />
+</LinearLayout>

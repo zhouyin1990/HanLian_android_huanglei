@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_back.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_navbar.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_navbar.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\yuan.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\yuan.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\login_logo.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\login_logo.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\inputback.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\inputback.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_img_denglu.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_img_denglu.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_addpic_focused.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_addpic_focused.png"
+    }
+]

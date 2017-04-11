@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\HanLian_android-master (1)\HanLian_android-master\app\libs\AMap_Search_V5.0.0_20170309.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="315a916b8186d7c5496a81cf683455c558196a1d">
+        <dex dex="E:\HanLian_android-master (1)\HanLian_android-master\app\build\intermediates\pre-dexed\debug\AMap_Search_V5.0.0_20170309_ae5644307a069154e99f426dcc3681992691592d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\HanLian_android-master (1)\HanLian_android-master\app\libs\AMap_Location_V3.3.0_20170118.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="299ccce875c1bbd5eb2802923ae89946e22b7ee6">
+        <dex dex="E:\HanLian_android-master (1)\HanLian_android-master\app\build\intermediates\pre-dexed\debug\AMap_Location_V3.3.0_20170118_f4ce3d54a0bf4a11e1f65af3c54ededbe399267a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\HanLian_android-master (1)\HanLian_android-master\app\libs\Android_Map3D_SDK_V5.0.0_20170309.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e603730b9be13117101feb477b2a6b77ab4b381">
+        <dex dex="E:\HanLian_android-master (1)\HanLian_android-master\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V5.0.0_20170309_44708c66ed4134ffd921ebdb99f5c510926da1e0.jar" />
+    </item>
+
+</items>

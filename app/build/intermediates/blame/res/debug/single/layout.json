@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\layout\\layout_alertview_alert.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vendor_login.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_vendor_login.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weihu.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_weihu.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95606b25563a756c7d735f97c99e80413fb3e8a4\\output\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_agree.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_agree.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95606b25563a756c7d735f97c99e80413fb3e8a4\\output\\res\\layout\\activity_album_select.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view_item_image_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95606b25563a756c7d735f97c99e80413fb3e8a4\\output\\res\\layout\\grid_view_item_image_select.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_take_pic.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\item_take_pic.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_horizontal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\layout\\layout_alertview_alert_horizontal.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop__layout_done_cancel.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dcc6ded97ac98302a99e06ba82ce77ee49d6cc1e\\output\\res\\layout\\crop__layout_done_cancel.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\finddialog.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\finddialog.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vender.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_vender.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\item_dialog.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_score2.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\dialog_score2.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_business_login.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_business_login.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_alertbutton.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\layout\\item_alertbutton.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_location.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\item_search_location.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_find.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_actionsheet.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\layout\\layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_alertheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\layout\\include_alertheader.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95606b25563a756c7d735f97c99e80413fb3e8a4\\output\\res\\layout\\activity_image_select.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\layout\\layout_alertview.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_loading.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\item_loading.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_location.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_search_location.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop__activity_crop.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dcc6ded97ac98302a99e06ba82ce77ee49d6cc1e\\output\\res\\layout\\crop__activity_crop.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alertview_alert_vertical.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\9e6b4db3e0046c3e5107a3fa3f9cbf5374bb3cde\\output\\res\\layout\\layout_alertview_alert_vertical.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busine.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\activity_busine.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view_item_album_select.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95606b25563a756c7d735f97c99e80413fb3e8a4\\output\\res\\layout\\grid_view_item_album_select.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    }
+]

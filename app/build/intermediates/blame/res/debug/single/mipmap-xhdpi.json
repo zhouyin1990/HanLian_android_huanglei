@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\app_logo.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\icon_search.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

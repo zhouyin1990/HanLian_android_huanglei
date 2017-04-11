@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Indicator">
+        <attr name="content_bgcolor" format="color|reference" />
+        <attr name="content_forecolor" format="color|reference" />
+        <attr name="content_ringcolor" format="color|reference" />
+        <attr name="content_radius" format="dimension|reference" />
+        <attr name="content_ringwidth" format="dimension|reference" />
+        <attr name="content_distance" format="float|reference" />     
+    </declare-styleable>
+    
+      <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="border_overlay" format="boolean" />
+    </declare-styleable>
+    
+</resources>

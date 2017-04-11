@@ -1,0 +1,4 @@
+#Tue Apr 11 21:19:53 CST 2017
+base.0=E\:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

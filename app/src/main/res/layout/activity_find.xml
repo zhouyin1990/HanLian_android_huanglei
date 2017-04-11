@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hanlian.activity.FindActivity">
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@mipmap/ic_navbar"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_detail_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="找回密码"
+            android:textColor="@color/white"
+            android:textSize="22dp" />
+
+        <View
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:background="@color/line_color" />
+
+        <ImageView
+            android:id="@+id/img_findpasswordback"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="21dp"
+            android:src="@mipmap/ic_back" />
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/ed_phone_find"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/btn_yonghuming"
+        android:layout_alignRight="@+id/btn_yonghuming"
+        android:layout_below="@+id/RelativeLayout1"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/edit_bg"
+        android:ems="10"
+        android:paddingLeft="5dp"
+        android:hint="请输入绑定的手机"
+        android:inputType="phone" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/btn_yonghuming"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/ed_phone_find"
+        android:layout_marginTop="50dp"
+        android:background="@mipmap/ic_navbar"
+        android:text="找回用户名"
+        android:textSize="25dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btn_mima"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/btn_yonghuming"
+        android:layout_alignRight="@+id/btn_yonghuming"
+        android:layout_below="@+id/ed_phone_find"
+        android:layout_marginTop="161dp"
+        android:background="@mipmap/ic_navbar"
+        android:text="找回秘密"
+        android:textSize="25dp"
+        android:textColor="@color/white" />
+
+
+
+
+</RelativeLayout>
