@@ -119,11 +119,30 @@ public class BusinessLoginActivity extends TakePhotoActivity {
     }
      //TODO  刷新token
     private void getToken() {
-        SharedPreferences sp = getSharedPreferences("hanlian", MODE_PRIVATE);
-        token = sp.getString("token", null);
-        if (token == null) {
-            Toast.makeText(this, "存储Token失败", Toast.LENGTH_SHORT).show();
-        }
+        OkHttpUtils.get().addParams("account", "121212").addParams("password", "121212").url(KeyConstance.AdminLoginUrl)
+                .build().execute(new StringCallback() {
+            @Override
+            public void onError(Call call, Exception e, int id) {
+                Toast.makeText(BusinessLoginActivity.this, "请求Token失败 - " + e.toString(), Toast.LENGTH_SHORT).show();
+            }
+
+            @Override
+            public void onResponse(String response, int id) {
+                try {
+                    JSONObject jsonObject = new JSONObject(response);
+                    int errorCode = jsonObject.getInt("ErrorCode");
+                    if (errorCode == 0) {
+                        token = jsonObject.getString("Token");
+                        //   Toast.makeText(VendorLoginActivity.this, "获取Token成功", Toast.LENGTH_SHORT).show();
+                    } else {
+                        Toast.makeText(BusinessLoginActivity.this, "请求成功,获取失败失败-" + errorCode,
+                                Toast.LENGTH_SHORT).show();
+                    }
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
     }
 
     private void initListener() {

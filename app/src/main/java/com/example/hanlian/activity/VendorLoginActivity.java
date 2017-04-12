@@ -118,7 +118,7 @@ public class VendorLoginActivity extends TakePhotoActivity {
     }
 
     private void getToken() {
-        OkHttpUtils.get().addParams("account", "121212").addParams("password", "121212").url(KeyConstance.GET_TOKEN)
+        OkHttpUtils.get().addParams("account", "121212").addParams("password", "121212").url(KeyConstance.AdminLoginUrl)
                 .build().execute(new StringCallback() {
             @Override
             public void onError(Call call, Exception e, int id) {
@@ -205,6 +205,7 @@ public class VendorLoginActivity extends TakePhotoActivity {
         registerButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                //
                 if (TextUtils.isEmpty(token)) {
                     showAlertView("登陆失败 - token为空");
                     return;
