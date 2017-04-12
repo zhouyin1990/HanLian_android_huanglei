@@ -345,7 +345,7 @@ public class VendorLoginActivity extends TakePhotoActivity {
                     @Override
                     public void onError(Call call, Exception e, int id) {
                         hideLoadingView();
-                        Toast.makeText(VendorLoginActivity.this, "上传请求失败 - " + e.toString(),
+                        Toast.makeText(VendorLoginActivity.this, "上传请求失败 - " ,
                                 Toast.LENGTH_SHORT).show();
                     }
 
@@ -357,6 +357,7 @@ public class VendorLoginActivity extends TakePhotoActivity {
                             String result = jsonObject.getString("Result");
                             if (errorCode == 0) {
                                 ShowDialog(result);
+
                                 Toast.makeText(VendorLoginActivity.this, "上传成功", Toast.LENGTH_SHORT).show();
                             } else {
                                 Toast.makeText(VendorLoginActivity.this, "上传失败 - " + errorCode,
