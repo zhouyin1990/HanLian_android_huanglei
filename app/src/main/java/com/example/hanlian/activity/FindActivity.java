@@ -143,7 +143,6 @@ public class FindActivity extends AppCompatActivity {
 
     private void getMimaCode()
     {
-
         // TODO: 2017/4/11   待添加发送PASSWORD验证码url
         OkHttpUtils.get().addParams("phone",ed_phone).url(" ").build().execute(new StringCallback() {
             @Override
@@ -159,7 +158,6 @@ public class FindActivity extends AppCompatActivity {
                     {
                         Toast.makeText(FindActivity.this, "获取验证码成功", Toast.LENGTH_SHORT).show();
                     }
-
                 } catch (JSONException e) {
                     e.printStackTrace();
                 }

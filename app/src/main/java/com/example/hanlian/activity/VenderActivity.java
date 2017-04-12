@@ -28,6 +28,8 @@ public class VenderActivity extends AppCompatActivity {
     @BindView(R.id.mg_businie_back)
     ImageView mg_businie_back ;
     @Override
+
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_vender);
