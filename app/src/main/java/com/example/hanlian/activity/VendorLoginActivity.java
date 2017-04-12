@@ -85,6 +85,9 @@ public class VendorLoginActivity extends TakePhotoActivity {
     @BindView(R.id.ll_vendor_confirm)
     LinearLayout confirmSpace;
 
+    @BindView(R.id.read_me)
+    TextView TV_README ;
+
     private AlertView alertView;
     private CustomHelper customHelper;
     private int choosePicState = 0;                 //选择图片的状态 0-添加图片;1-更换图片
@@ -139,6 +142,17 @@ public class VendorLoginActivity extends TakePhotoActivity {
     }
 
     private void initListener() {
+
+        TV_README.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(VendorLoginActivity.this , AgreeActivity.class);
+                startActivity(intent );
+            }
+        });
+
+
+
         //返回图标
         backImage.setOnClickListener(new View.OnClickListener() {
             @Override
