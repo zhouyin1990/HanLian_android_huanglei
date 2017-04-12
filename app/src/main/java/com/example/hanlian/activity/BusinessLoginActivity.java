@@ -92,6 +92,9 @@ public class BusinessLoginActivity extends TakePhotoActivity {
     @BindView(R.id.ll_business_confirm)
     LinearLayout confirmSpace;
 
+    @BindView(R.id.wenzi)
+    TextView TV_WENZI ;
+
     private AlertView alertView;
     private CustomHelper customHelper;
     private int choosePicState = 0;                 //选择图片的状态 0-添加图片;1-更换图片
@@ -146,6 +149,15 @@ public class BusinessLoginActivity extends TakePhotoActivity {
     }
 
     private void initListener() {
+
+        TV_WENZI.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent =new Intent(BusinessLoginActivity.this ,AgreeActivity.class);
+                startActivity(intent);
+            }
+        });
+
         //返回图标
         backImage.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -160,8 +172,7 @@ public class BusinessLoginActivity extends TakePhotoActivity {
                 String mobile = mobileEdit.getText().toString().trim();
                 boolean isture = ValidatorUtils.isMobile(mobile);
                 if (mobile!=null && isture==true) {
-                    // TODO: 2017/4/6 正则
-                    TimeHelp();//倒计时600s
+                    TimeHelp();//倒计时60s
                     OkHttpUtils.get().addParams("phone", mobile).url(KeyConstance.sendApplicationCode).build()
                             .execute(new StringCallback() {
                                 @Override

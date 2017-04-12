@@ -66,6 +66,7 @@ public class FindActivity extends AppCompatActivity {
                 ismobile = ValidatorUtils.isMobile(ed_phone);
                 if (ed_phone != null && ismobile == true) {
                     getUserCode();
+
                 } else {
                     Toast.makeText(FindActivity.this, "请输入正确的手机号", Toast.LENGTH_SHORT).show();
                 }
@@ -80,7 +81,6 @@ public class FindActivity extends AppCompatActivity {
                 ismobile = ValidatorUtils.isMobile(ed_phone);
                 if (ed_phone != null && ismobile == true) {
                     getMimaCode();
-                    showDialog();
                 } else {
                     Toast.makeText(FindActivity.this, "请输入正确的手机号", Toast.LENGTH_SHORT).show();
                 }
@@ -266,6 +266,7 @@ public class FindActivity extends AppCompatActivity {
         OkHttpUtils.get().addParams("phone", ed_phone).url(KeyConstance.SEND_SALE_PASSWORD_CODE).build().execute(new StringCallback() {
             @Override
             public void onError(Call call, Exception e, int id) {
+
                 Toast.makeText(FindActivity.this, "获取验证码失败", Toast.LENGTH_SHORT).show();
             }
 
@@ -275,6 +276,10 @@ public class FindActivity extends AppCompatActivity {
                     int errorCode = new JSONObject(response).getInt("ErrorCode");
                     if (errorCode == 0) {
                         Toast.makeText(FindActivity.this, "获取验证码成功", Toast.LENGTH_SHORT).show();
+                        showDialog();
+                    }else
+                    {
+                        Toast.makeText(FindActivity.this, "请求成功，发送失败", Toast.LENGTH_SHORT).show();
                     }
                 } catch (JSONException e) {
                     e.printStackTrace();

@@ -61,10 +61,10 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         app:srcCompat="@mipmap/yuan"
-        android:layout_marginBottom="64dp"
-        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/imageView"
         android:layout_alignLeft="@+id/imageView"
-        android:layout_alignStart="@+id/imageView"/>
+        android:layout_alignStart="@+id/imageView"
+        android:layout_marginTop="59dp"/>
 
     <TextView
         android:id="@+id/textView2"

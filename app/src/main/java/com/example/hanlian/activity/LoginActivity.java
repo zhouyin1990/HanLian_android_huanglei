@@ -194,7 +194,7 @@ public class LoginActivity extends AppCompatActivity implements AMapLocationList
 
                 // 缩放地图
                 LatLng latLng = new LatLng(amapLocation.getLatitude(),amapLocation.getLongitude());
-                aMap.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 16));
+                aMap.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng,20));
 
 //        	Log.e("address",address);
 

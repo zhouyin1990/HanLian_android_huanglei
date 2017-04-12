@@ -32,6 +32,10 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
+        "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_resetting_password.xml",
+        "source": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\src\\main\\res\\layout\\item_resetting_password.xml"
+    },
+    {
         "merged": "E:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\dae357904152548b2062e3ae9e1298068955ec97\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
