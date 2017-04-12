@@ -1,13 +1,17 @@
 package com.example.hanlian.activity;
 
+import android.app.Dialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.widget.DividerItemDecoration;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.TextUtils;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.EditText;
@@ -100,6 +104,7 @@ public class VendorLoginActivity extends TakePhotoActivity {
     private boolean confirm = false;
 
     private CountDownButtonHelper helper;
+    private Dialog loadingDialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -107,9 +112,7 @@ public class VendorLoginActivity extends TakePhotoActivity {
         View contentView = LayoutInflater.from(this).inflate(R.layout.activity_vendor_login, null);
         setContentView(contentView);
         ButterKnife.bind(this);
-
         customHelper = CustomHelper.of(contentView);
-
         getToken();
         initListener();
     }
@@ -334,10 +337,13 @@ public class VendorLoginActivity extends TakePhotoActivity {
                     File file = new File(path);
                     store.put(file.getName(), file);
                 }
+
+                showLoadingView();
                 OkHttpUtils.post().params(params).files("license", license).files("card", card).files("store", store)
                         .url(KeyConstance.SELLER_APPLICATION).build().execute(new StringCallback() {
                     @Override
                     public void onError(Call call, Exception e, int id) {
+                        hideLoadingView();
                         Toast.makeText(VendorLoginActivity.this, "上传请求失败 - " + e.toString(),
                                 Toast.LENGTH_SHORT).show();
                     }
@@ -541,6 +547,65 @@ public class VendorLoginActivity extends TakePhotoActivity {
     public void takeFail(TResult result, String msg) {
         super.takeFail(result, msg);
         Toast.makeText(this, "选择图片失败-" + msg, Toast.LENGTH_SHORT).show();
+    }
+
+
+    //显示登录成功提示框
+    private void ShowDialog(String result) {
+        final Dialog dialog = new Dialog(VendorLoginActivity.this, R.style.MyDialog);
+        View view1 = LayoutInflater.from(VendorLoginActivity.this).inflate(R.layout.dialog_score2, null);
+        dialog.setContentView(view1);
+        ((TextView) view1.findViewById(R.id.tv_sure)).setText("确定");
+
+
+
+
+        ((TextView) view1.findViewById(R.id.tv_account)).setText(result);
+        view1.findViewById(R.id.tv_sure).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View arg0) {
+                if (dialog != null && dialog.isShowing()) {
+                    //TODO  成功后要做的操作
+
+                    Intent intent= new Intent(VendorLoginActivity.this ,LoginActivity.class);
+                    startActivity(intent);
+
+                    dialog.dismiss();
+                }
+            }
+        });
+        dialog.show();
+    }
+
+    //显示加载框
+    public void showLoadingView() {
+        LayoutInflater inflater = LayoutInflater.from(this);
+        View v = inflater.inflate(R.layout.item_loading, null);// 得到加载view
+
+        // 创建自定义样式dialog
+        if (loadingDialog == null) {
+            loadingDialog = new Dialog(this, R.style.dialog_loaing);
+            loadingDialog.setCancelable(true); // 是否可以按“返回键”消失
+            loadingDialog.setCanceledOnTouchOutside(false); // 点击加载框以外的区域
+            loadingDialog.setContentView(v, new LinearLayout.LayoutParams(
+                    LinearLayout.LayoutParams.MATCH_PARENT,
+                    LinearLayout.LayoutParams.MATCH_PARENT));// 设置布局
+            /** *将显示Dialog的方法封装在这里面 */
+            Window window = loadingDialog.getWindow();
+            WindowManager.LayoutParams lp = window.getAttributes();
+            lp.width = WindowManager.LayoutParams.MATCH_PARENT;
+            lp.height = WindowManager.LayoutParams.WRAP_CONTENT;
+            window.setGravity(Gravity.CENTER);
+            window.setAttributes(lp);
+        }
+        loadingDialog.show();
+    }
+
+    //隐藏提示框
+    public void hideLoadingView() {
+        if (loadingDialog != null && loadingDialog.isShowing()) {
+            loadingDialog.dismiss();
+        }
     }
 
     private void TimeHelp(){
