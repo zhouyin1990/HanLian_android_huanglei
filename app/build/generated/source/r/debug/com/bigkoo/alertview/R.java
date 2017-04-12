@@ -54,17 +54,17 @@ public final class R {
         public static final int bg_alertview_alert = 0x7f020059;
     }
     public static final class id {
-        public static final int alertButtonListView = 0x7f0c00d6;
-        public static final int content_container = 0x7f0c00d5;
-        public static final int loAlertButtons = 0x7f0c00da;
-        public static final int loAlertHeader = 0x7f0c00cb;
-        public static final int outmost_container = 0x7f0c00d4;
-        public static final int tvAlert = 0x7f0c00ce;
-        public static final int tvAlertCancel = 0x7f0c00d7;
-        public static final int tvAlertMsg = 0x7f0c00cd;
-        public static final int tvAlertTitle = 0x7f0c00cc;
-        public static final int viewStubHorizontal = 0x7f0c00d8;
-        public static final int viewStubVertical = 0x7f0c00d9;
+        public static final int alertButtonListView = 0x7f0c00d7;
+        public static final int content_container = 0x7f0c00d6;
+        public static final int loAlertButtons = 0x7f0c00db;
+        public static final int loAlertHeader = 0x7f0c00cc;
+        public static final int outmost_container = 0x7f0c00d5;
+        public static final int tvAlert = 0x7f0c00cf;
+        public static final int tvAlertCancel = 0x7f0c00d8;
+        public static final int tvAlertMsg = 0x7f0c00ce;
+        public static final int tvAlertTitle = 0x7f0c00cd;
+        public static final int viewStubHorizontal = 0x7f0c00d9;
+        public static final int viewStubVertical = 0x7f0c00da;
     }
     public static final class integer {
         public static final int animation_default_duration = 0x7f0d0002;

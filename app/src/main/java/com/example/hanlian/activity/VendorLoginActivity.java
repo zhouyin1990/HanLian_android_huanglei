@@ -351,8 +351,11 @@ public class VendorLoginActivity extends TakePhotoActivity {
                     @Override
                     public void onResponse(String response, int id) {
                         try {
-                            int errorCode = new JSONObject(response).getInt("ErrorCode");
+                            JSONObject jsonObject = new JSONObject(response);
+                            int errorCode = jsonObject.getInt("ErrorCode");
+                            String result = jsonObject.getString("Result");
                             if (errorCode == 0) {
+                                ShowDialog(result);
                                 Toast.makeText(VendorLoginActivity.this, "上传成功", Toast.LENGTH_SHORT).show();
                             } else {
                                 Toast.makeText(VendorLoginActivity.this, "上传失败 - " + errorCode,
@@ -550,16 +553,12 @@ public class VendorLoginActivity extends TakePhotoActivity {
     }
 
 
-    //显示登录成功提示框
+    //显示成功提示框
     private void ShowDialog(String result) {
         final Dialog dialog = new Dialog(VendorLoginActivity.this, R.style.MyDialog);
         View view1 = LayoutInflater.from(VendorLoginActivity.this).inflate(R.layout.dialog_score2, null);
         dialog.setContentView(view1);
         ((TextView) view1.findViewById(R.id.tv_sure)).setText("确定");
-
-
-
-
         ((TextView) view1.findViewById(R.id.tv_account)).setText(result);
         view1.findViewById(R.id.tv_sure).setOnClickListener(new View.OnClickListener() {
             @Override

@@ -50,6 +50,7 @@ public class VendorLoginActivity_ViewBinding implements Unbinder {
     target.backImage = Utils.findRequiredViewAsType(source, R.id.iv_vendor_back, "field 'backImage'", ImageView.class);
     target.confirmCheck = Utils.findRequiredViewAsType(source, R.id.cb_vendor_confirm, "field 'confirmCheck'", CheckBox.class);
     target.confirmSpace = Utils.findRequiredViewAsType(source, R.id.ll_vendor_confirm, "field 'confirmSpace'", LinearLayout.class);
+    target.TV_README = Utils.findRequiredViewAsType(source, R.id.read_me, "field 'TV_README'", TextView.class);
   }
 
   @Override
@@ -80,5 +81,6 @@ public class VendorLoginActivity_ViewBinding implements Unbinder {
     target.backImage = null;
     target.confirmCheck = null;
     target.confirmSpace = null;
+    target.TV_README = null;
   }
 }
