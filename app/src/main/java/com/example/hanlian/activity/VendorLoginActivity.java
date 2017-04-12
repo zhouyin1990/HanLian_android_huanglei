@@ -134,7 +134,7 @@ public class VendorLoginActivity extends TakePhotoActivity {
                         token = jsonObject.getString("Token");
                      //   Toast.makeText(VendorLoginActivity.this, "获取Token成功", Toast.LENGTH_SHORT).show();
                     } else {
-                        Toast.makeText(VendorLoginActivity.this, "请求成功,获取失败失败-" + errorCode,
+                        Toast.makeText(VendorLoginActivity.this, "请求成功,获取失败-" + errorCode,
                                 Toast.LENGTH_SHORT).show();
                     }
                 } catch (JSONException e) {
@@ -288,7 +288,7 @@ public class VendorLoginActivity extends TakePhotoActivity {
                     return;
                 }
                 ArrayList<String> idCards = idCardAdapter.getItems();
-                if (idCards.size() == 3) {
+                if (idCards.size() == 0) {
                     Toast.makeText(VendorLoginActivity.this, "请上传身份证照片", Toast.LENGTH_SHORT).show();
                     return;
                 }

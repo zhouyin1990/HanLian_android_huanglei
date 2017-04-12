@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Apr 12 09:26:26 CST 2017
+#Wed Apr 12 10:20:52 CST 2017
 20.base=E\:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
 143.base=E\:\\HanLian_android-master (1)\\HanLian_android-master\\app\\build\\intermediates\\res\\resources-debug.ap_
 439.set=ANDROID_RESOURCE
