@@ -349,14 +349,13 @@ public class SearchLocationActivity extends AppCompatActivity {
     /**
      * 响应逆地理编码，查询地址
      */
-    //
     public void getAddress(final LatLonPoint latLonPoint) {
         RegeocodeQuery query = new RegeocodeQuery(latLonPoint, 200,
                 GeocodeSearch.AMAP);// 第一个参数表示一个Latlng，第二参数表示范围多少米，第三个参数表示是火系坐标系还是GPS原生坐标系
         geocoderSearch.getFromLocationAsyn(query);// 设置同步逆地理编码请求
     }
 
-    @Override//
+    @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         if (keyCode == KeyEvent.KEYCODE_BACK) {
             Intent intent = new Intent();
@@ -391,12 +390,6 @@ public class SearchLocationActivity extends AppCompatActivity {
     }
 
     @Override
-    protected void onStop() {
-        super.onStop();
-        mlocationClient.stopLocation();
-    }
-
-    @Override//
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
         //在activity执行onSaveInstanceState时执行mMapView.onSaveInstanceState (outState)，保存地图当前的状态
