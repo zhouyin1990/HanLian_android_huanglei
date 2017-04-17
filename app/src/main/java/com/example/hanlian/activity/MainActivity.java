@@ -91,11 +91,8 @@ public class MainActivity extends AppCompatActivity {
                             if (errorCode == 0) {
                                 Toast.makeText(MainActivity.this,
                                         "登录成功", Toast.LENGTH_SHORT).show();
-
                                 SharedPreferences sp = getSharedPreferences("hanlian", MODE_PRIVATE);
                                 sp.edit().putString("token", token).commit();
-
-
                                 startActivity(new Intent(MainActivity.this, LoginActivity.class));
                             }
                         } catch (JSONException e) {

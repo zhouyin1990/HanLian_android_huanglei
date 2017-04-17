@@ -66,7 +66,6 @@ public class FindActivity extends AppCompatActivity {
                 ismobile = ValidatorUtils.isMobile(ed_phone);
                 if (ed_phone != null && ismobile == true) {
                     getUserCode();
-
                 } else {
                     Toast.makeText(FindActivity.this, "请输入正确的手机号", Toast.LENGTH_SHORT).show();
                 }
@@ -221,8 +220,11 @@ public class FindActivity extends AppCompatActivity {
         View view = LayoutInflater.from(this).inflate(R.layout.dialog_score2, null);
         dialog.setContentView(view);
         ((TextView) view.findViewById(R.id.tv_sure)).setText("确定");
+
         ((TextView) view.findViewById(R.id.textView1)).setText("找回成功,请牢记用户名:");
+
         ((TextView) view.findViewById(R.id.tv_account)).setText(result);
+
         view.findViewById(R.id.tv_sure).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View arg0) {

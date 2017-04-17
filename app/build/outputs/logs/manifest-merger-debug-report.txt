@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:2:1-62:12
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:2:1-60:12
 	package
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:3:11-40
 		INJECTED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml
@@ -14,42 +14,42 @@ ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\And
 		INJECTED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml
 		INJECTED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:5:5-66
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:4:5-66
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:6:5-80
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:5:5-80
 MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\2415e4b7c49a8efd15e33284f05e282dd2f15799\output\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:6:22-78
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:5:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:7:5-79
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:6:5-79
 MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\95606b25563a756c7d735f97c99e80413fb3e8a4\output\AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:7:22-77
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:6:22-77
 uses-permission#android.permission.CAMERA
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:8:5-64
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:7:5-64
 MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\2415e4b7c49a8efd15e33284f05e282dd2f15799\output\AndroidManifest.xml:12:5-65
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:8:22-62
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:7:22-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:9:5-78
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:8:5-78
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:8:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:10:5-75
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:10:22-73
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:9:22-73
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:11:5-74
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:10:5-74
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:11:22-72
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:10:22-72
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:12:5-80
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:11:22-78
 application
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:14:5-60:19
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:12:5-58:19
 MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\821b00a1cfd157a5f20b6bc2d91fd3a91ad69df9\output\AndroidManifest.xml:11:5-15:19
 MERGED from [com.jph.takephoto:takephoto_library:4.0.3] C:\Users\Administrator\.android\build-cache\2415e4b7c49a8efd15e33284f05e282dd2f15799\output\AndroidManifest.xml:14:5-26:19
 MERGED from [com.darsh.multipleimageselect:multipleimageselect:1.0.4] C:\Users\Administrator\.android\build-cache\95606b25563a756c7d735f97c99e80413fb3e8a4\output\AndroidManifest.xml:13:5-34:19
@@ -64,87 +64,87 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrat
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\3dd53161246ca2d8ef1dbaa8851388b05360a2db\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\0e47e20e0e16236861548c38e26b6e3ebea7a4e3\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:16:9-41
 	android:supportsRtl
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:17:9-35
 	android:allowBackup
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:15:9-40
 	android:theme
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:20:9-65
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:18:9-65
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:15:9-44
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:13:9-44
 activity#com.example.hanlian.activity.MainActivity
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:21:9-29:20
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:screenOrientation
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:23:13-49
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:21:13-49
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:22:13-50
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:20:13-50
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:25:17-68
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:23:17-68
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:27:17-76
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:25:17-76
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.example.hanlian.activity.LoginActivity
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:30:9-32:51
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:28:9-30:51
 	android:screenOrientation
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:32:13-49
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:30:13-49
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:31:13-51
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:29:13-51
 activity#com.example.hanlian.activity.BusinessLoginActivity
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:33:9-35:51
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:31:9-33:51
 	android:screenOrientation
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:35:13-49
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:33:13-49
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:34:13-59
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:32:13-59
 activity#com.example.hanlian.activity.SearchLocationActivity
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:36:9-38:51
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:34:9-36:51
 	android:screenOrientation
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:36:13-49
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:37:13-60
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:35:13-60
 activity#com.example.hanlian.activity.VendorLoginActivity
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:39:9-41:51
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:37:9-39:51
 	android:screenOrientation
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:41:13-49
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:39:13-49
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:40:13-57
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:38:13-57
 service#com.amap.api.location.APSService
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:44:9-67
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:42:9-67
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:44:18-65
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:42:18-65
 meta-data#com.amap.api.v2.apikey
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:46:9-48:63
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:44:9-46:63
 	android:value
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:48:13-61
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:46:13-61
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:47:13-50
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:45:13-50
 activity#com.example.hanlian.activity.WeihuActivity
+ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:48:9-49:20
+	android:name
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:48:19-57
+activity#com.example.hanlian.activity.FindActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:50:9-51:20
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:50:19-57
-activity#com.example.hanlian.activity.FindActivity
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:50:19-56
+activity#com.example.hanlian.activity.AgreeActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:52:9-53:20
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:52:19-56
-activity#com.example.hanlian.activity.AgreeActivity
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:52:19-57
+activity#com.example.hanlian.activity.BusineActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:54:9-55:20
 	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:54:19-57
-activity#com.example.hanlian.activity.BusineActivity
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:54:19-58
+activity#com.example.hanlian.activity.VenderActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:56:9-57:20
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:56:19-58
-activity#com.example.hanlian.activity.VenderActivity
-ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:58:9-59:20
-	android:name
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:58:19-58
 uses-sdk
 INJECTED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\Administrator\.android\build-cache\a911f40a301f3b209e0b523fe77bf49afa1419db\output\AndroidManifest.xml:5:5-43
