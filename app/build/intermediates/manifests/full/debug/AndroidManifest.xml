@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hanlian"
+    package="hanliankeji"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -22,14 +22,14 @@
         android:value="25.3.1" />
 
     <application
-        android:name="com.example.hanlian.utils.Myapplication"
+        android:name="hanliankeji.utils.Myapplication"
         android:allowBackup="true"
         android:icon="@mipmap/app_logo"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         <activity
-            android:name="com.example.hanlian.activity.MainActivity"
+            android:name="hanliankeji.activity.MainActivity"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -38,16 +38,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.hanlian.activity.LoginActivity"
+            android:name="hanliankeji.activity.LoginActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.example.hanlian.activity.BusinessLoginActivity"
+            android:name="hanliankeji.activity.BusinessLoginActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.example.hanlian.activity.SearchLocationActivity"
+            android:name="hanliankeji.activity.SearchLocationActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name="com.example.hanlian.activity.VendorLoginActivity"
+            android:name="hanliankeji.activity.VendorLoginActivity"
             android:screenOrientation="portrait" />
 
         <!-- 定位需要的服务 使用2.0的定位需要加上这个 -->
@@ -57,15 +57,15 @@
             android:name="com.amap.api.v2.apikey"
             android:value="29171db2091569428c3c83cef5b48723" />
 
-        <activity android:name="com.example.hanlian.activity.WeihuActivity" >
+        <activity android:name="hanliankeji.activity.WeihuActivity" >
         </activity>
-        <activity android:name="com.example.hanlian.activity.FindActivity" >
+        <activity android:name="hanliankeji.activity.FindActivity" >
         </activity>
-        <activity android:name="com.example.hanlian.activity.AgreeActivity" >
+        <activity android:name="hanliankeji.activity.AgreeActivity" >
         </activity>
-        <activity android:name="com.example.hanlian.activity.BusineActivity" >
+        <activity android:name="hanliankeji.activity.BusineActivity" >
         </activity>
-        <activity android:name="com.example.hanlian.activity.VenderActivity" >
+        <activity android:name="hanliankeji.activity.VenderActivity" >
         </activity>
 
         <meta-data
@@ -76,7 +76,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.example.hanlian.fileprovider"
+            android:authorities="hanliankeji.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data

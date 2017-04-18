@@ -2,7 +2,7 @@
 manifest
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:2:1-60:12
 	package
-		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:3:11-40
+		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:3:11-32
 		INJECTED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml
 		INJECTED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -75,7 +75,7 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:18:9-65
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:13:9-44
-activity#com.example.hanlian.activity.MainActivity
+activity#hanliankeji.activity.MainActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:screenOrientation
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:21:13-49
@@ -91,25 +91,25 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:25:17-76
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:25:27-74
-activity#com.example.hanlian.activity.LoginActivity
+activity#hanliankeji.activity.LoginActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:28:9-30:51
 	android:screenOrientation
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:30:13-49
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:29:13-51
-activity#com.example.hanlian.activity.BusinessLoginActivity
+activity#hanliankeji.activity.BusinessLoginActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:31:9-33:51
 	android:screenOrientation
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:33:13-49
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:32:13-59
-activity#com.example.hanlian.activity.SearchLocationActivity
+activity#hanliankeji.activity.SearchLocationActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:34:9-36:51
 	android:screenOrientation
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:36:13-49
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:35:13-60
-activity#com.example.hanlian.activity.VendorLoginActivity
+activity#hanliankeji.activity.VendorLoginActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:37:9-39:51
 	android:screenOrientation
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:39:13-49
@@ -125,23 +125,23 @@ ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\And
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:46:13-61
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:45:13-50
-activity#com.example.hanlian.activity.WeihuActivity
+activity#hanliankeji.activity.WeihuActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:48:9-49:20
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:48:19-57
-activity#com.example.hanlian.activity.FindActivity
+activity#hanliankeji.activity.FindActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:50:9-51:20
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:50:19-56
-activity#com.example.hanlian.activity.AgreeActivity
+activity#hanliankeji.activity.AgreeActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:52:9-53:20
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:52:19-57
-activity#com.example.hanlian.activity.BusineActivity
+activity#hanliankeji.activity.BusineActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:54:9-55:20
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:54:19-58
-activity#com.example.hanlian.activity.VenderActivity
+activity#hanliankeji.activity.VenderActivity
 ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:56:9-57:20
 	android:name
 		ADDED from E:\HanLian_android-master (1)\HanLian_android-master\app\src\main\AndroidManifest.xml:56:19-58
